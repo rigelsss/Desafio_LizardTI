@@ -75,8 +75,11 @@
 
     Para testar a API, você deve utilizar a ferramenta própria da FastAPI. Acesse: "http://127.0.0.1:8000/docs"
 
-    Faça o upload dos arquivos fornecidos como exemplo e faça uma pergunta para a IA via terminal. 
-    A IA respondera um JSON com sua pergunta e outros dados gerais sobre o contrato
+    Clique em "POST" e em seguida "Try it out".
+    Escolha o arquivo.
+    Faça o upload dos arquivos fornecidos como exemplo e faça uma pergunta para a IA via terminal da IDE. 
+    
+    A IA responderá um JSON contendo sua pergunta e outros dados gerais sobre o contrato.
 
     A resposta da API será o JSON gerado pela IA com base no conteúdo do PDF e na pergunta feita.
 
@@ -114,7 +117,7 @@
 ## Conclusão
 
     Este projeto demonstra como utilizar FastAPI com uma IA generativa para processar arquivos PDF, com foco em engenharia de prompts para garantir 
-    respostas estruturadas em JSON. Se você tiver dúvidas ou problemas, consulte a documentação das bibliotecas ou abra uma issue no repositório.
+    respostas estruturadas em JSON. Se você tiver dúvidas ou problemas, consulte a documentação das bibliotecas, abra uma issue no repositório ou entre em contato.
 
 
 
