@@ -20,8 +20,8 @@
     Faça o clone do repositório do GitHub:
 
     ```bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
-    cd seu-repositorio
+    git clone https://github.com/rigelsss/Desafio_LizardTI.git
+    cd Desafio_LizardTI
     ```
 
 ### Passo 2: Configurar o ambiente virtual
