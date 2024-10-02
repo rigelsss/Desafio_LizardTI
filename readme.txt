@@ -87,6 +87,11 @@
 
     Após processar a pergunta, a resposta será armazenada no MongoDB. Para visualizar as informações armazenadas, você pode usar a interface do MongoDB ou qualquer cliente de banco de dados NoSQL.
 
+Você pode se conectar com o banco utilizando a seguinte query string:
+    mongodb+srv://desafio_lizardTI:VpRu6HuwJSKjox1r@cluster0.ktuaz.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+    O nome da collection é "consultas".
+    
     ---
 
 ## Dependências
